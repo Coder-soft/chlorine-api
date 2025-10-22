@@ -151,5 +151,5 @@ Tune these in `client.js` constants for your environment.
 If you encounter issues, check console logs or open an issue.
 
 ---
-*Last updated: [10/22/25]*
+Last updated: [10/22/25]
 ```
