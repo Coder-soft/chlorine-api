@@ -148,7 +148,7 @@ Tune these in `client.js` constants for your environment.
 - **Customization**: Extend for filtering assets (e.g., by category) by modifying `getAllImages()` or the queue.
 - **Legal**: Ensure compliance with mcicons.ccleaf.com's terms and Minecraft's asset usage policies (assets are for fair use, not redistribution).
 
-If you encounter issues, check console logs or open an issue (if this is a repo).
+If you encounter issues, check console logs or open an issue.
 
 ---
 *Last updated: [10/22/25]*
