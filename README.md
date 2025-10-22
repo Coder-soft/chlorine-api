@@ -1,4 +1,4 @@
-# Minecraft Icons Downloader
+# Chlorine API
 
 This Node.js application downloads Minecraft icons (assets) from the [mcicons.ccleaf.com](https://mcicons.ccleaf.com) API. It fetches a list of all available icons, saves metadata to a JSON file, and concurrently downloads the images to an organized directory structure.
 
@@ -151,5 +151,5 @@ Tune these in `client.js` constants for your environment.
 If you encounter issues, check console logs or open an issue (if this is a repo).
 
 ---
-*Last updated: [Current Date]*
+*Last updated: [10/22/25]*
 ```
